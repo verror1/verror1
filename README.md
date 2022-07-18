@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @verror1
-- 👀 I’m interested in hacking and progrmin 
+- 👀 I’m interested in hacking and progrming 
 - 🌱 I’m currently learning cyber securtiy
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
